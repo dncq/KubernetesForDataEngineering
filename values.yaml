@@ -4,7 +4,7 @@ webserverSecretKey: Jd5JE5a89i9gfQ6heEpwbfYMpTS3XVVpsaJ9eiwiIMI=
 dags:
   gitSync:
     enabled: true
-    repo: https://github.com/airscholar/Kubernetes-For-DataEngineering.git
+    repo: https://github.com/dncq/KubernetesForDataEngineering.git
     branch: main
     rev: HEAD
     depth: 1
